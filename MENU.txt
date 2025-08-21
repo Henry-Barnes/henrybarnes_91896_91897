@@ -1,0 +1,8 @@
+MENU = {
+    "Croissant": 3.50,
+    "Bagel": 4.00,
+    "Muffin": 2.75,
+    "Donut": 2.50,
+    "Sourdough Loaf": 6.00,
+    "Cupcake": 3.00
+}
